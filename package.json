@@ -1,0 +1,21 @@
+{
+    "name": "aurea",
+    "displayName": "aurea",
+    "description": "theme aurea",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "aureaThemeVSc",
+                "uiTheme": "vs-dark",
+                "path": "./themes/aureaThemeVSc-color-theme.json"
+            }
+        ]
+    }
+}
