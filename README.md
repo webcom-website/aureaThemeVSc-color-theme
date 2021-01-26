@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "aurea"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+![Aurea, the Aures Icon](aureatheme.jpg)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+
+
+# Aurea
+## This is the README for your extension "aurea"
+A beautiful dark theme with beautiful colors for visual studio code, for use by all audiences. Enjoy it!
+
+![Aurea, the Aures Icon](aurea-theme.jpg)
+
+## Installation
+* Copy extension with npm command
+* Make the magic happen
+* Open the command palette with Ctrl + Shift + Po⇧⌘P
+* Select Preferences: Color Theme and choose a variant of Aurea.
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Support & SMS](https://www.linkedin.com/in/andre-min%C3%ADn-2020happy/)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
